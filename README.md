@@ -79,7 +79,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Open 5G](./img/5g.png)
+![Open 5G](https://github.com/0xa6e/open5g/blob/main/img/5G.png)
 
 This experiment aims to provide a set of tools to deploy a mobile network, as illustrated by the following image. The containers compose of a RAN and the core of the 4G system. This experiment's main goal is to demonstrate a connection between UE in hardware (conventional cell phone), RAN in hardware (SDR - Software-Defined Radio) and software, and EPC core implemented in software.
 
