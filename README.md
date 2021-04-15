@@ -28,7 +28,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/0xa6e/template">
-    <img src="https://w7.pngwing.com/pngs/659/213/png-transparent-research-methods-the-basics-research-methods-a-practical-guide-for-the-social-sciences-basic-research-methods-an-entry-to-social-science-research-computer-icons-others-angle-text-logo.png" alt="Open 5G" width="80" height="80">
+    <img src="img/kisspng-logo-industry-research-vector-bulb-yellow-5a99770f83efa3.3479401715200069275404.png" alt="Open 5G" width="80" height="80">
   </a>
 
   <h3 align="center">template</h3>
