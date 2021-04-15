@@ -28,7 +28,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/0xa6e/template">
-    <img src="img/kisspng-logo-industry-research-vector-bulb-yellow-5a99770f83efa3.3479401715200069275404.png" alt="Open 5G" width="100" height="100">
+    <img src="img/kisspng-logo-industry-research-vector-bulb-yellow-5a99770f83efa3.3479401715200069275404.png" alt="Open 5G" width="150" height="100">
   </a>
 
   <h3 align="center">template</h3>
