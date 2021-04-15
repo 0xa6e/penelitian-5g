@@ -79,18 +79,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![Open 5G](https://viewer.diagrams.net/?highlight=0000ff&edit=_blank&layers=1&nav=1&title=5G.drawio#R5VrbcuI4EP0aHnH5bvMYbpmpSnZTYWaysy8pgYVRYlteWQ4wX7%2BSLfkqkuwUEGY2lQKrW7al093q010MrEm8uyYg3dziAEYDUw92A2s6ME3DNs0B%2F9eDfSnxbL0UhAQFYlItWKAfUAjltBwFMGtNpBhHFKVt4QonCVzRlgwQgrftaWsctd%2BaghD2BIsViPrSBxTQjZAaul4rPkEUbsSrfUcoYiAnC0G2AQHeNkTWbGBNCMa0vIp3Exhx8CQu5X3zA9pqYQQm9D03oO0CG856%2BgQf3OTb%2FukmSv4eCuu8gCgXGxaLpXuJAMF5EkD%2BEGNgjbcbROEiBSuu3TKbM9mGxpFQi8dBQuHu4DqNavfMbSCOISV7NkXcYEkEhcdYEuptjb87ErJNA3pHTgTC5mH17BoWdiGQ%2BS8oGT1UYMDcRAwxoRsc4gREs1o6rnHT2aiec4NxKtB6gpTuhc%2BDnOI2lnCH6F%2F8ds0Ro%2B8NzXQnnlwM9nKQsP2WN%2Fm6JQXfC4FuVYL65mLUuvsOEsRgg6QSBlc8kNgwwQksJXPEESz0JTQcj9cNzuDDOVnBV3C2RIADEkL6yjxjpPYgAiNA0Ut7IUf3BuvyYsZznFbM2JbTixkWSP2YMe2TxUwflcuPGWPkdWLG9S48ZpxfImacy4sZW%2B%2FGTD%2FPnDlmXAVKbkT51tle3JBfze4mUsjeUct7eDJkaBu0jBL8DCc4wqR2zDXzyo4IRChM2HDFkOQuPeY4I8aJroQiRkFQxKvKSu0YPoKhfLdjKAUhsFV2OpWZvHeYaTz%2B%2Bj8zkz0ytQszlCwiGpb6tFj0TACytCwd1mjHERmnjeOcvYbVGrBxwjdt1bNBxfI5qgHINhXEGcMfJeGXIpNxJobiovaQ31MUh2yXEVqyT7DiZ%2FJjgAhbGeZQzANAwRJkUMtewiMFlt2xl6tg2gp72bZmn8piRs9it7ezV3KFfh5%2BNWoj5dh9pBwFUtbJPLtfuN1N7ucfDpR%2FcUD12fpieP3w4UB1PcpVnJXnBcrue9QlANX1qI8H6h1cdo0TKrP1gHcwXHcyUWRoypNBJb0BSxjd4QxRhLl2iSnFMZsQdRRVtumlnwb2OKcRShiPkI0xvUMj2MImxV%2BPczCN6%2FvGmGepkIAAwXo7gnxI8bTIUOWyEl6wVQ%2BT7TKzzIophybehbxNqCWQbjF5zjT%2BFPxI8bZY%2FTFYiN85gPR%2BJSyL5aa7GCdrHhkqVt%2FxF4lPixJcSVrCDdfjKG86jdrXJNnYUMo7qFd8b%2BZ8u91qBGYQkNUmBBRyAzFxSjBzGMiubhHBWQReht%2FwjwQ8c12%2BjNjji7eac9PXPXfEPtn1GoU5geUFM9b8asHew8mG79iG7tm2xWLT1g3btn3X8B3PLyD%2BM4XJ%2BMti%2BHVxfzf8gxlkuCY4Hs4ozbPhvVicliZHIj%2BjdpdRlagMz9QM76y%2B4r%2FtK322ihGP%2FtkL23kma4iDNPStQuPgWfOTDtc7ojpHkK4bvj9VnBFxtgJQC2ECCYg0mrNjLDqC3V3z7XxiqBKK6Z3K6COF0cvScVmVk%2Fefp9ezRkW5PFhQnjtBd%2FsonqKP4vhnzdA%2FEUQNTIp4KtbkjAfOVOXD8pzmeV70Ig3zQClX%2BDH7nuLVMyTHq95GHUe2HUW17Wue30f%2BdE3fd3Cj3wB6x3M1uTOJviJ%2FnB19rwf2xbbcz9YfNwX9erNBbqpNfp7%2BuPkOkvhrtKkKLsLo4%2BMqwnlwxJhzPa1L7XsRp6b2rq7JFvLxDadibGWW5idUy4LuPzmWimFWxBPj37qlp7taWef1DgX4LIBVk4BKVr71d282u36bvhsK0nGkVjMb1j%2FSKHSNn7pYs38B)
 
-Do you have some awesome code you want to release to the world on GitHub? If so, this repo provides all the files you’ll need to prepare your project for public release on GitHub.com. It’s a reference implementation of the Bangsat Open Source Skeleton Specification, follow the requirements of this specification when adapting the content of this repo to your own project.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+This experiment aims to provide a set of tools to deploy a mobile network, as illustrated by the following image. The containers compose of a RAN and the core of the 4G system. This experiment's main goal is to demonstrate a connection between UE in hardware (conventional cell phone), RAN in hardware (SDR - Software-Defined Radio) and software, and EPC core implemented in software.
 
 
 
